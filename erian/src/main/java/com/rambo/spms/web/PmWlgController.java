@@ -37,8 +37,7 @@ import com.google.common.collect.Maps;
  * Update action : POST /pmWlg/update
  * Delete action : GET /pmWlg/delete/{id}
  * 
- * @author yuanbo
- * 
+ * @author yuanbo  
  */
 @Controller
 @RequestMapping(value = "/pmWlg")
